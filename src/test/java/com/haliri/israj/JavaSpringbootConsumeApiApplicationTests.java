@@ -1,4 +1,4 @@
-package com.belajar;
+package com.haliri.israj;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

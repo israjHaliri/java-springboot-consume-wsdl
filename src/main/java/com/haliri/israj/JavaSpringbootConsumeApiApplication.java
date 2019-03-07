@@ -1,6 +1,6 @@
-package com.belajar;
+package com.haliri.israj;
 
-import com.belajar.repository.UserProfileRepository;
+import com.haliri.israj.repository.UserProfileRepository;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
